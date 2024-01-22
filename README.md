@@ -1,3 +1,5 @@
+![Generate Stats Images](https://github.com/GangGreenTemperTatum/github-stats/actions/workflows/main.yml/badge.svg?branch=master)
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <!--
